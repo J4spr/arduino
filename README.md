@@ -7,7 +7,6 @@ This is an example code that demonstrates the usage of a keypad with an Arduino 
 ![the circuit](https://github.com/J4spr/arduino/blob/main/arduino.jpg?raw=true)
 ![cables](https://github.com/J4spr/arduino/blob/main/cablesforArduino.jpg?raw=true)
 
-Include a circuit diagram image or description here if applicable.
 
 ## Prerequisites
 
